@@ -1,0 +1,4 @@
+imap_tools
+sqlalchemy
+mysqlclient
+pydantic
